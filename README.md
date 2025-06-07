@@ -1,6 +1,6 @@
 ## Hi there...
 
-Hi! I’m a Data Science student, passionate about turning raw data into stories and insights that matter. I enjoy exploring big data, machine learning, and deep learning to solve real-world problems.
+I’m a Data Science student, passionate about turning raw data into stories and insights that matter. I enjoy exploring big data, machine learning, and deep learning to solve real-world problems.
 
 I’m also curious about how data can support smarter business decisions and bring fresh ideas to the table. Always up for learning something new, collaborating on exciting projects, and sharing knowledge along the way.
 
