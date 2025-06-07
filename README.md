@@ -85,9 +85,6 @@ Berikut adalah beberapa **skills**, **tools**, dan **teknologi** yang saya kuasa
   <!-- MongoDB -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   
-  <!-- SQLite -->
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  
   <!-- phpMyAdmin -->
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white" />
   
@@ -125,6 +122,16 @@ Berikut adalah beberapa **skills**, **tools**, dan **teknologi** yang saya kuasa
   
   <!-- GitLab -->
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
+
+#### Data Visualization Tools
+
+<p align="left">
+  <!-- Tableau -->
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  
+  <!-- Power BI -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
 </p>
 
 #### Documentation / Writing
