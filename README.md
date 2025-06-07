@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-Berikut adalah beberapa **skills**, **tools**, dan **teknologi** yang saya kuasai serta saya gunakan dalam berbagai proyek, data science, machine learning, GIS, hingga dokumentasi. Saya senang terus belajar dan mengeksplorasi teknologi baru untuk meningkatkan kemampuan saya. 🚀
+Hi! I’m a Data Science student, passionate about turning raw data into stories and insights that matter. I enjoy exploring big data, machine learning, and deep learning to solve real-world problems.
+
+I’m also curious about how data can support smarter business decisions and bring fresh ideas to the table. Always up for learning something new, collaborating on exciting projects, and sharing knowledge along the way.
+
+Feel free to connect-let’s chat, learn, and maybe work on something cool together!🚀
 
 | Kategori               | Tools / Languages                                                                                                      |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------|
