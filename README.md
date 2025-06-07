@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there...
 
 Hi! I’m a Data Science student, passionate about turning raw data into stories and insights that matter. I enjoy exploring big data, machine learning, and deep learning to solve real-world problems.
 
