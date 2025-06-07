@@ -14,9 +14,6 @@ Berikut adalah beberapa **skills**, **tools**, dan **teknologi** yang saya kuasa
   <!-- R -->
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   
-  <!-- C++ -->
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  
   <!-- SQL (generic using SQLite logo) -->
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   
@@ -38,9 +35,6 @@ Berikut adalah beberapa **skills**, **tools**, dan **teknologi** yang saya kuasa
   
   <!-- Gemini (Google AI / formerly Bard) -->
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  
-  <!-- Claude (Anthropic) -->
-  <img src="https://img.shields.io/badge/Claude-FFD700?style=for-the-badge&logo=anthropic&logoColor=black" />
 </p>
 
 
@@ -119,9 +113,6 @@ Berikut adalah beberapa **skills**, **tools**, dan **teknologi** yang saya kuasa
   
   <!-- GitHub -->
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  
-  <!-- GitLab -->
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
 
 #### Data Visualization Tools
@@ -137,17 +128,14 @@ Berikut adalah beberapa **skills**, **tools**, dan **teknologi** yang saya kuasa
 #### Documentation / Writing
 
 <p align="left">
-  <!-- Markdown -->
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  
   <!-- LaTeX -->
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" />
   
+  <!-- Markdown -->
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  
   <!-- Notion -->
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  
-  <!-- Overleaf -->
-  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
   
   <!-- Microsoft 365 -->
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
