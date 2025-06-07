@@ -25,9 +25,6 @@ Berikut adalah beberapa **skills**, **tools**, dan **teknologi** yang saya kuasa
   
   <!-- JSON -->
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-  
-  <!-- Bash -->
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 #### AI Tools
@@ -44,9 +41,6 @@ Berikut adalah beberapa **skills**, **tools**, dan **teknologi** yang saya kuasa
   
   <!-- Claude (Anthropic) -->
   <img src="https://img.shields.io/badge/Claude-FFD700?style=for-the-badge&logo=anthropic&logoColor=black" />
-  
-  <!-- Deepseek -->
-  <img src="https://img.shields.io/badge/Deepseek-0052CC?style=for-the-badge&logo=deepseek&logoColor=white" />
 </p>
 
 
@@ -98,7 +92,7 @@ Berikut adalah beberapa **skills**, **tools**, dan **teknologi** yang saya kuasa
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white" />
   
   <!-- DBeaver -->
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
   
   <!-- pgAdmin -->
   <img src="https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -120,19 +114,6 @@ Berikut adalah beberapa **skills**, **tools**, dan **teknologi** yang saya kuasa
   <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" />
 </p>
 
-#### Cloud / Containerization
-
-<p align="left">
-  <!-- Google Cloud -->
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  
-  <!-- AWS -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  
-  <!-- Docker -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
 #### Version Control & Collaboration
 
 <p align="left">
@@ -145,7 +126,6 @@ Berikut adalah beberapa **skills**, **tools**, dan **teknologi** yang saya kuasa
   <!-- GitLab -->
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
-
 
 #### Documentation / Writing
 
