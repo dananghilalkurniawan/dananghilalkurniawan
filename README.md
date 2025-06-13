@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-I’m a Data Science student, passionate about turning raw data into stories and insights that matter. I enjoy exploring big data, machine learning, and deep learning to solve real-world problems.
-
-I’m also curious about how data can support smarter business decisions and bring fresh ideas to the table. Always up for learning something new, collaborating on exciting projects, and sharing knowledge along the way.
-
-Feel free to connect — let’s chat, learn, and maybe work on something cool together! 🚀
+I'm a Data Science student who’s into turning data into insights, building smart solutions, and learning new things every day.
+Let’s connect and create something awesome together! 🚀
 
 | <div align="center">**Kategori**</div>  | **Tools / Languages**                                                                                                      |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------|
