@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm a Data Science student who’s into turning data into insights, building smart solutions, and learning new things every day.
+
 Let’s connect and create something awesome together! 🚀
 
 | <div align="center">**Kategori**</div>  | **Tools / Languages**                                                                                                      |
